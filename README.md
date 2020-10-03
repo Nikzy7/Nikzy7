@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on: Python, Heroku, Dsicord Bots, Machine Learning and Internet-of-Things
+- 🔭 I’m currently working on: Python, Heroku, Discord Bots, Machine Learning and Internet-of-Things
 - 🌱 I’m currently: trying to understand JavaScript (Probably work on MEAN)
 - 👯 I’m looking to collaborate on: Any kind of Applied ML Project
 - 💬 Ask me about: ML and IoT
@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" />
 <img align="left" alt="Firebase" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
-<img align="left" alt="Ubidots" width="100px" src="https://vignette.wikia.nocookie.net/iot-fpms/images/2/2f/6796_043b01ef967da629abc843eca1f2a477906da07a_ubidots_l.png" />
 
 
 
