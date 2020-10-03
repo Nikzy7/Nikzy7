@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about: ML and IoT
 - 📫 How to reach me: Drop a mail on apnegi07@gmail.com
 - ⚡ Fun fact: I am an Oracle Cetified Associate :smile:
-- 📝 Have a look at my: **[Resume](resume.pdf)**
+- 📝 Have a look at my: **[Resume](https://github.com/Nikzy7/Nikzy7/blob/main/resume_apoorv.pdf)**
 
 
