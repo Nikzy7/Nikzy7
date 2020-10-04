@@ -24,7 +24,6 @@
 - 📝 Have a look at my: **[Resume](https://github.com/Nikzy7/Nikzy7/blob/main/resume_apoorv.pdf)**
 
 ## :crossed_swords: Weapons of Choice
-<div align="center">
 <img alt="Python" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img alt="Java" width="18px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
@@ -38,7 +37,7 @@
 <img alt="RPi" width="20px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />
 <img alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <img alt="Firebase" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
-</div>
+
 
 
 
