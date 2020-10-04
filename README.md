@@ -6,11 +6,7 @@
 	<img alt="Proton Mail" src="https://img.shields.io/badge/-Privacy%20Concern%3F-red?labelColor=white&style=flat&logo=protonmail&link=mailto:nikzy7@protonmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!">
 	<img alt="Discord Badge" src="https://img.shields.io/badge/-Nikzy%233060-orange?style=flat&labelColor=9cf&logo=discord">
 	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Nikzy7.profile.id">
-</div>
-
-----------------------
-## :unamused: My life in one GIF
-<div align="center">
+	<br>
 	<img alt="MyLifeInGif" src="sv.gif" width="350" height="200"><br>
 	<img alt="Social Life Badge" src="https://img.shields.io/static/v1?label=Social%20Life&message=Non%20Existent&color=red">
 </div>
