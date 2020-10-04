@@ -1,17 +1,17 @@
 ## :v: Hey there! I am Apoorv
-----------------------
-<div align="center">
-	<img src="sv.gif" width="300" height="200">
-</div>
-
-----------------------
-
 
 ![LinkedIn Badge](https://img.shields.io/badge/-@apoorvnegi-yellow?style=flat&labelColor=0e76a8&logo=LinkedIn&link=https://www.linkedin.com/in/apoorvnegi/)
 ![Gmail Badge](https://img.shields.io/badge/-Let's%20Talk-green?style=flat&labelColor=lightgrey&logo=gmail&link=mailto:apnegi07@gmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!)
 ![Proton Mail](https://img.shields.io/badge/-Privacy%20Concern%3F-red?labelColor=white&style=flat&logo=protonmail&link=mailto:nikzy7@protonmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!)
 ![Discord Badge](https://img.shields.io/badge/-Nikzy%233060-orange?style=flat&labelColor=9cf&logo=discord)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nikzy7.profile.id)
+
+----------------------
+## :unamused: My life in one GIF
+<div align="center">
+	<img src="sv.gif" width="350" height="200">
+	<img src="https://img.shields.io/static/v1?label=Social%20Life&message=Non%20Existent&color=red">
+</div>
 
 
 ----------------------
@@ -37,6 +37,7 @@
 <img align="left" alt="RPi" width="20px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />
 <img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <img align="left" alt="Firebase" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
+
 
 
 
