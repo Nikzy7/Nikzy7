@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 📝 Have a look at my: **[Resume](https://github.com/Nikzy7/Nikzy7/blob/main/resume_apoorv.pdf)**
 
 ## :crossed_swords: Weapons of Choice
+<div align="center">
 <img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="18px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 <img align="left" alt="RPi" width="20px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />
 <img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <img align="left" alt="Firebase" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
+</div>
 
 
 
