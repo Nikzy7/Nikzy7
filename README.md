@@ -9,7 +9,7 @@
 ----------------------
 ## :unamused: My life in one GIF
 <div align="center">
-	<img src="sv.gif" width="350" height="200">
+	<img src="sv.gif" width="350" height="200"><br>
 	<img src="https://img.shields.io/static/v1?label=Social%20Life&message=Non%20Existent&color=red">
 </div>
 
