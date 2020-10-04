@@ -1,7 +1,8 @@
 ## :v: Hey there! I am Apoorv
-![LinkedIn Badge](https://img.shields.io/badge/-@apoorvnegi-0e76a8?style=flat-square&labelColor=0e76a8&logo=LinkedIn&link=https://www.linkedin.com/in/apoorvnegi/)
-![Gmail Badge](https://img.shields.io/badge/-Let's%20Talk-lightgrey?style=flat-square&labelColor=lightgrey&logo=gmail&link=mailto:apnegi07@gmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!)
-![Discord Badge](https://img.shields.io/badge/-Nikzy%233060-9cf?style=flat-square&labelColor=9cf&logo=discord)
+![LinkedIn Badge](https://img.shields.io/badge/-@apoorvnegi-yellow?style=flat&labelColor=0e76a8&logo=LinkedIn&link=https://www.linkedin.com/in/apoorvnegi/)
+![Gmail Badge](https://img.shields.io/badge/-Let's%20Talk-green?style=flat&labelColor=lightgrey&logo=gmail&link=mailto:apnegi07@gmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!)
+![Proton Mail](https://img.shields.io/badge/-Privacy%20Concern%3F-red?labelColor=white&style=flat&logo=protonmail&link=mailto:nikzy7@protonmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!)
+![Discord Badge](https://img.shields.io/badge/-Nikzy%233060-orange?style=flat&labelColor=9cf&logo=discord)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nikzy7.profile.id)
 <!--
 **Nikzy7/Nikzy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="30px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img align="left" alt="VS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="VB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" />
 <img align="left" alt="Ubidots" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_a73d16c9057460f4c4d1a86e17ce7a9b/ubidots.png" />
