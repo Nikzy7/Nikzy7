@@ -24,25 +24,13 @@
 - 📝 Have a look at my: **[Resume](https://github.com/Nikzy7/Nikzy7/blob/main/resume_apoorv.pdf)**
 
 <h2 align="center">:crossed_swords: Weapons of Choice :crossed_swords:</h2>
-<!-- Write your comments here 
-<div align="center">
-<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Java" width="18px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
-<img align="left" alt="MySQL" width="30px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
-<img align="left" alt="VS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" alt="VB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" />
-<img align="left" alt="Ubidots" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_a73d16c9057460f4c4d1a86e17ce7a9b/ubidots.png" />
-<img align="left" alt="RPi" width="20px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />
-<img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
-<img align="left" alt="Firebase" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
-</div>
--->
 
-<table align="center" style="border: none;">
+<div align="center">
+<img alt="Python" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />          <img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />          <img alt="Java" width="18px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />          <img alt="MySQL" width="30px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />  <img  alt="VS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" />          <img  alt="VB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" />          <img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>          <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />          <img alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" />          <img alt="Ubidots" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_a73d16c9057460f4c4d1a86e17ce7a9b/ubidots.png" />           <img alt="RPi" width="20px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />          <img alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />  <img alt="Firebase" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
+</div>
+
+<!--
+<table align="center" class="no-border">
 	<tr>
 		<td><img alt="Python" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></td>	
 		<td><img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></td>
@@ -60,6 +48,7 @@
 	</tr>
 	
 </table>
+-->
 
 
 
