@@ -1,7 +1,7 @@
 ## :v: Hey there! I am Apoorv
 ----------------------
 <div align="center">
-	<img src="sv.gif">
+	<img src="sv.gif" width="300" height="200">
 </div>
 
 ----------------------
