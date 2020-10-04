@@ -1,11 +1,11 @@
 <h1 align="center">:v: Hey There! I'm Apoorv :v:</h1>
 
 <div align="center">
-	<img alt="LinkedIn Badge" src="https://img.shields.io/badge/-@apoorvnegi-yellow?style=flat&labelColor=0e76a8&logo=LinkedIn&link=https://www.linkedin.com/in/apoorvnegi/">
-	<img alt="Gmail Badge" src="https://img.shields.io/badge/-Let's%20Talk-green?style=flat&labelColor=lightgrey&logo=gmail&link=mailto:apnegi07@gmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!">
-	<img alt="Proton Mail" src="https://img.shields.io/badge/-Privacy%20Concern%3F-red?labelColor=white&style=flat&logo=protonmail&link=mailto:nikzy7@protonmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!">
+	<a href="https://www.linkedin.com/in/apoorvnegi/"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/-@apoorvnegi-yellow?style=flat&labelColor=0e76a8&logo=LinkedIn&link=https://www.linkedin.com/in/apoorvnegi/"></a>
+	<a href="mailto:apnegi07@gmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!"><img alt="Gmail Badge" src="https://img.shields.io/badge/-Let's%20Talk-green?style=flat&labelColor=lightgrey&logo=gmail&link=mailto:apnegi07@gmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!"></a>
+	<a href="mailto:nikzy7@protonmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!"><img alt="Proton Mail" src="https://img.shields.io/badge/-Privacy%20Concern%3F-red?labelColor=white&style=flat&logo=protonmail&link=mailto:nikzy7@protonmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!"></a>
 	<img alt="Discord Badge" src="https://img.shields.io/badge/-Nikzy%233060-orange?style=flat&labelColor=9cf&logo=discord">
-	<img alt="Hackerrank" src="https://img.shields.io/badge/-@sitbackandcode-brightgreen?style=flat&labelColor=blue&logo=hackerrank&link=https://www.hackerrank.com/sitbackandcode">
+	<a href="https://www.hackerrank.com/sitbackandcode"><img alt="Hackerrank" src="https://img.shields.io/badge/-@sitbackandcode-brightgreen?style=flat&labelColor=blue&logo=hackerrank&link=https://www.hackerrank.com/sitbackandcode"></a>
 	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Nikzy7.profile.id">
 	<br><br>
 	<img alt="MyLifeInGif" src="sv.gif" width="350" height="200"><br>
