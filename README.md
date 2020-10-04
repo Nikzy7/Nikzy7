@@ -8,7 +8,7 @@
 	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Nikzy7.profile.id">
 	<br><br>
 	<img alt="MyLifeInGif" src="sv.gif" width="350" height="200"><br>
-	<img alt="Social Life Badge" src="https://img.shields.io/static/v1?label=Social%20Life&message=Non%20Existent&color=red">
+	<img alt="Social Life Badge" src="https://img.shields.io/static/v1?label=Social%20Life&message=Failing&color=red">
 </div>
 
 
