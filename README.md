@@ -31,8 +31,10 @@
 
 ------------------
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Nikzy7">
+	<img src="https://github-readme-stats.vercel.app/api?username=Nikzy7"><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikzy7&layout=compact" alt="ankitapuri" />
 </div>
+
 
 
 
