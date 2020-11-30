@@ -16,7 +16,7 @@
 <h2 align="center">:smirk: About Me :smirk:</h2>
 
 - 🔭 I’m currently working on: **Python, Heroku, Discord Bots, Machine Learning and Internet-of-Things**
-- 🌱 I’m currently: **trying to understand JavaScript (Probably work on MEAN)**
+- 🌱 I’m currently: **trying to understand JavaScript (Probably work on MERN)**
 - 👯 I’m looking to collaborate on: **Any kind of Applied ML Project**
 - 💬 Ask me about: **ML and IoT**
 - 📫 How to reach me: Drop a mail on nikzy7@protonmail.com
