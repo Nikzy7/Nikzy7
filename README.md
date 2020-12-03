@@ -15,10 +15,10 @@
 
 <h2 align="center">:smirk: About Me :smirk:</h2>
 
-- 🔭 I’m currently working on: **Python, Heroku, Discord Bots, Machine Learning and Internet-of-Things**
+- 🔭 I’m currently working on: **Python, Heroku, and JavaScript**
 - 🌱 I’m currently: **trying to understand JavaScript (Probably work on MERN)**
 - 👯 I’m looking to collaborate on: **Any kind of Applied ML Project**
-- 💬 Ask me about: **ML and IoT**
+- 💬 Ask me about: **Machine Learning and Internet-of-Things**
 - 📫 How to reach me: Drop a mail on nikzy7@protonmail.com
 - ⚡ Fun fact: I am an **[Oracle Certified Associate :smile:](https://www.youracclaim.com/badges/54c4d8db-8496-40cc-a51e-99d064f3fbd1/public_url)**
 - 📝 Have a look at my: **[Resume](https://github.com/Nikzy7/Nikzy7/blob/main/resume_apoorv.pdf)**
