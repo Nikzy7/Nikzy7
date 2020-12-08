@@ -19,7 +19,7 @@
 - 🌱 I’m currently: **trying to understand React.js (Probably work on MERN stack)**
 - 👯 I’m looking to collaborate on: **Any kind of Applied ML Project**
 - 💬 Ask me about: **Machine Learning and Internet-of-Things**
-- 📫 How to reach me: Drop a mail on nikzy7@protonmail.com/apnegi07@gmail.com
+- 📫 How to reach me: Drop a mail on nikzy7@protonmail.com or apnegi07@gmail.com
 - ⚡ Fun fact: I am an **[Oracle Certified Associate :smile:](https://www.youracclaim.com/badges/54c4d8db-8496-40cc-a51e-99d064f3fbd1/public_url)**
 - 📝 Have a look at my: **[Resume](https://github.com/Nikzy7/Nikzy7/blob/main/resume_apoorv.pdf)**
 
