@@ -16,10 +16,10 @@
 <h2 align="center">:smirk: About Me :smirk:</h2>
 
 - 🔭 I’m currently working on: **Python, Heroku, and JavaScript**
-- 🌱 I’m currently: **trying to understand React.js (Probably work on MERN)**
+- 🌱 I’m currently: **trying to understand React.js (Probably work on MERN stack)**
 - 👯 I’m looking to collaborate on: **Any kind of Applied ML Project**
 - 💬 Ask me about: **Machine Learning and Internet-of-Things**
-- 📫 How to reach me: Drop a mail on nikzy7@protonmail.com
+- 📫 How to reach me: Drop a mail on nikzy7@protonmail.com/apnegi07@gmail.com
 - ⚡ Fun fact: I am an **[Oracle Certified Associate :smile:](https://www.youracclaim.com/badges/54c4d8db-8496-40cc-a51e-99d064f3fbd1/public_url)**
 - 📝 Have a look at my: **[Resume](https://github.com/Nikzy7/Nikzy7/blob/main/resume_apoorv.pdf)**
 
@@ -31,7 +31,7 @@
 ------------------
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Nikzy7"><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikzy7&layout=compact" alt="ankitapuri" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikzy7&layout=compact" alt="Nikzy7 Stats" />
 </div>
 
 
