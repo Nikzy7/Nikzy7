@@ -21,7 +21,7 @@
 - 💬 Ask me about: **Machine Learning and Internet-of-Things**
 - 📫 How to reach me: Drop a mail on nikzy7@protonmail.com or apnegi07@gmail.com
 - ⚡ Fun fact: I am an **[Oracle Certified Associate :smile:](https://www.youracclaim.com/badges/54c4d8db-8496-40cc-a51e-99d064f3fbd1/public_url)**
-- 📝 Have a look at my: **[Resume](https://github.com/Nikzy7/Nikzy7/blob/main/resume_apoorv.pdf)**
+- 📝 Have a look at my: **[Resume](https://github.com/Nikzy7/Nikzy7/blob/main/resume_badge.pdf)**
 
 <h2 align="center">:crossed_swords: Weapons of Choice :crossed_swords:</h2>
 
