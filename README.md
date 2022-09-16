@@ -33,8 +33,7 @@
 <h2 align="center">✨ My Stats ✨</h2>
 
 <div align="center">
-<!-- 	<img src="https://github-readme-stats.vercel.app/api?username=Nikzy7"><br> -->
-	<img src="https://github-profile-trophy.vercel.app/?username=Nikzy7&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)"><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=Nikzy7"><br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikzy7&layout=compact" alt="Nikzy7 Stats" />
 </div>
 
